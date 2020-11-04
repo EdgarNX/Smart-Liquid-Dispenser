@@ -1,4 +1,5 @@
-# Smart-Liquid-Dispenser <ADUINO PROJECT>
+# Smart-Liquid-Dispenser 
+## ADUINO PROJECT
 
 This is a Smart - Liquid Dispenser made by me (Nemeth Edgar) and Schipala Ianko.
 
